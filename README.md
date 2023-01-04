@@ -20,10 +20,8 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-XAMPP?style=flat-square&logo=XAMPP"/>
 <img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
-<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
-<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
-<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
 <img src="https://img.shields.io/badge/-streamlit?style=flat-square&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
