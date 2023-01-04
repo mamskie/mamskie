@@ -1,7 +1,7 @@
 <p align="center">
  https://mam06.me/  
 </p align="center">
-<img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" />
+<img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="500" />
 
 <p align="center">
 
@@ -18,6 +18,12 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-XAMPP?style=flat-square&logo=XAMPP"/>
+<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/-streamlit?style=flat-square&logo=streamlit"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
@@ -38,7 +44,7 @@
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph <img src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/mam-06/mam-06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
