@@ -48,8 +48,6 @@
 <h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://discord.gg/X2tySrtF">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://www.instagram.com/mam.06_">
 <img src="https://img.shields.io/badge/-MAM-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mam.06_/">
 <a href="mailto: khotib.bul@gmail.com">
