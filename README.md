@@ -11,15 +11,18 @@
 
 <p align="center">
 <h2 align="center">
-  💻 OS
+  💻 OS 
+<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <h2 align="center">
   🌐 Web Browsers 
+ <br>
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
 </h2>
 <h2 align="center">
   🚀 Skills
+ <br>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php"/>
