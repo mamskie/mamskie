@@ -10,7 +10,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-<h2 align="center">
+<!-- <h2 align="center">
   💻 OS 
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -22,7 +22,7 @@
 </h2>
 <h2 align="center">
   🚀 Skills
- <br>
+ <br> -->
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php"/>
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-</h2>
+<!-- </h2> -->
 </p>
 <h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 
