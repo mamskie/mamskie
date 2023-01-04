@@ -1,7 +1,7 @@
 <p align="center">
  https://mam06.me/  
 </p align="center">
-<img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="200" />
+<img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" />
 
 <p align="center">
 
