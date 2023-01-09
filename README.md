@@ -76,8 +76,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mam-06&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mam-06&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=mam-06&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mam-06&hide=javascript,html">
 </p>
 
 <p align = "center">
