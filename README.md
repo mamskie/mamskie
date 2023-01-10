@@ -1,6 +1,7 @@
 <img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" />
-<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Information+System'>
-
+<h1 align="center">
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Information+System'>
+</h1>
 
 <p align="center">
   👩‍💻Visitor👨‍💻<br>
