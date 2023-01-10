@@ -1,6 +1,6 @@
 <img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" />
 <p align="center">
-  <img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Information+System'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Information+System+UIN+Sunan+Ampel'>
 </p>
 
 <p align="center">
