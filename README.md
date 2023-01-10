@@ -86,7 +86,6 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=mam-06&theme=redical">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MAM-06">
 </p> 
 <hr>
-<p align="center">Hoamm....</p>
