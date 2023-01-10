@@ -1,10 +1,8 @@
-<p align="center">
- 
-</p align="center">
 <img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" />
 
 <p align="center">
-
+  👩‍💻Visitor👨‍💻<br>
+  <img src="https://profile-counter.glitch.me/mam-06/count.svg" />
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50"></h2>
