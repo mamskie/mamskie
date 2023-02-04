@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </h2> -->
 </p>
-<h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
+<!-- <h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 
 <p align="center">
 <a href="https://www.instagram.com/mam.06_">
@@ -60,7 +60,7 @@
  <a href="https://twitter.com/MAM06_">
  <img src="https://img.shields.io/badge/-mam06_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MAM06_"/>
 </a>
-</p>
+</p> -->
 
 
 <h2 align="center">
