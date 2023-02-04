@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/ <br>
 <!-- <img src="https://img.shields.io/badge/-XAMPP?style=flat-square&logo=XAMPP"/>
 <img src="https://img.shields.io/badge/-figma?style=flat-square&logo=figma"/>
 <img src="https://img.shields.io/badge/-streamlit?style=flat-square&logo=streamlit"/> <br> -->
