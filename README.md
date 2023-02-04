@@ -93,7 +93,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=mam-06&show_icons=true&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mam-06&hide=javascript,html">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mam-06&layout=compact">
 </p>
 
 <p align = "center">
