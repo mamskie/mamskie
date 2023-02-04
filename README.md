@@ -24,6 +24,7 @@
 <h2 align="center">
   🚀 Skills
  <br> -->
+<a href="https://www.java.com/en/">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php"/>
