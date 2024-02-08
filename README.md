@@ -9,7 +9,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-<!-- <h2 align="center">
+<h2 align="center">
   💻 OS 
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -21,7 +21,7 @@
 </h2>
 <h2 align="center">
   🚀 Skills
- <br> -->
+<br> 
 <a href="https://www.java.com/en/">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <a href="https://www.python.org/">
