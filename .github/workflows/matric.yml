@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: matric
+      name: MATRIC
     permissions:
       contents: write
     steps:
