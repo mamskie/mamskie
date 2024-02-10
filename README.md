@@ -1,9 +1,6 @@
 <!-- <img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" /> -->
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am **M,Khotibul Umam**, a recent Information System graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them. 
-<p align="center">
-<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fresh+Graduate+Information+System'>
-</p>
 <h2 align="center">
   ⚙️ Technologies & Tools <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50">
 </h2>
@@ -53,7 +50,10 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 <p align="left">
 <img alt="Metric Stats" src="https://github.com/mamskie/mamskie/blob/main/github-metrics.svg" />
 </p>
-
+<p align="center">
+<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fresh+Graduate+Information+System'>
+</p>
+<!--
 <p align=left>
   <img  src = "https://github-readme-stats.vercel.app/api?username=mam-06&show_icons=true&theme=tokyonight">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mam-06&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
