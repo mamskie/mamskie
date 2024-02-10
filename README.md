@@ -1,7 +1,9 @@
-<img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" />
+<!-- <img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" />
 <p align="center">
-<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Information+System+UIN+Sunan+Ampel'>
-</p>
+<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fresh+Graduate+Information+System+UIN+Sunan+Ampel'>
+</p> -->
+# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+I am **M,Khotibul Umam**, a recent Information System graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them. 
 
 <p align="center">
   👩‍💻Visitor👨‍💻<br>
@@ -16,11 +18,13 @@
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<h2 align="center">
+
+  <!-- <h2 align="center">
   🌐 Web Browsers 
  <br>
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
-</h2>
+</h2> -->
+
 <h2 align="center">
   🚀 Skills
 <br> 
@@ -54,14 +58,14 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 <a href="https://code.visualstudio.com/">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-</h2> -->
+</h2>
 </p>
-<!-- <h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
+<h2 align="center">Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 
 <p align="center">
 <a href="https://www.instagram.com/mam.06_">
@@ -79,11 +83,28 @@
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" width="50">
+  ⚙️ Technologies & Tools
 </h2>
-<p align="center">
-  <img src="https://github.com/mam-06/mam-06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
+
+<h2 align="center"> &#x1f4c8; GitHub Stats <img src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" width="50"> <h2>
+
+<p align="left">
+<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
 </p>
+
+<p align=left>
+      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="NirZak Readme Stats" />
+</p> 
+
+<!-- <p align="center">
+  <img src="https://github.com/mam-06/mam-06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p> -->
 
 <h2 align="center">
   My Github Stats<img src="https://media.tenor.com/RY9NX67klacAAAAi/sad-cute.gif" width="50">
