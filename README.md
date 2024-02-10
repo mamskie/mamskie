@@ -94,7 +94,8 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 <h2 align="center"> &#x1f4c8; GitHub Stats <img src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" width="50"> <h2>
 
 <p align="left">
-<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
+
+  ![Metrics](https://metrics.lecoq.io/mam-06?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)
 </p>
 
 <p align=left>
