@@ -5,7 +5,7 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
   ⚙️ Technologies & Tools <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50">
 </h2>
 
-![Andorid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white")
+<!--![Andorid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white")-->
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
