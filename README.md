@@ -15,13 +15,16 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-1572B6?style=for-the-badge&logo=codeigniter)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white").
+
+
+<!--![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)--> 
 
 <h2 align="center">📇 Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 <p align="center">
