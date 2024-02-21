@@ -17,7 +17,7 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+<!-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) -->
 ![XAMPP](https://img.shields.io/badge/XAMPP-FA7343?style=for-the-badge&logo=XAMPP)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4F96?style=for-the-badge&logo=streamlit)
