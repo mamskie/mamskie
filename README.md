@@ -8,29 +8,21 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 ![Andorid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white")
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
-![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-1572B6?style=for-the-badge&logo=codeigniter)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-<!-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) -->
-![XAMPP](https://img.shields.io/badge/XAMPP-FA7343?style=for-the-badge&logo=XAMPP)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4F96?style=for-the-badge&logo=streamlit)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-<!--
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
--->
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-1572B6?style=for-the-badge&logo=codeigniter)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white").
 
 <h2 align="center">📇 Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 <p align="center">
