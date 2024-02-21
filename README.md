@@ -21,7 +21,6 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
-<!--![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)-->
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white").
 
 <h2 align="center">📇 Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
