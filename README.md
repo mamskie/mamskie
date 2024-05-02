@@ -24,7 +24,7 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 
 
 <!--![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
-![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)--> 
+![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)
 
 <h2 align="center">📇 Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
 <p align="center">
@@ -39,7 +39,7 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
  <a href="https://twitter.com/MAM06_">
  <img src="https://img.shields.io/badge/-mam06_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MAM06_"/>
 </a>
-</p>
+</p> --> 
 
 <h2 align="center"> &#x1f4c8; GitHub Stats <img src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" width="50"> <h2>
 
