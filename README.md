@@ -23,7 +23,7 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white").
 
 
-<!--![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 ![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)
 
 <h2 align="center">📇 Reach me out on <img src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50"></h2>
@@ -42,7 +42,7 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 </p> 
 
 <h2 align="center"> &#x1f4c8; GitHub Stats <img src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" width="50"> <h2>
---> 
+
 <p align="left">
 <img alt="Metric Stats" src="https://github.com/mamskie/mamskie/blob/main/github-metrics.svg" />
 </p> 
