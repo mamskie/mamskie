@@ -19,10 +19,8 @@ I am **M,Khotibul Umam**, a recent Information System graduate who is always com
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+<!--![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)-->
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white").
-
-
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 ![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=XAMPP)
 
