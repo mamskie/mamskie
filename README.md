@@ -1,6 +1,10 @@
 <!-- <img src="https://github.com/mam-06/mam-06/blob/main/images/newbg(1).png" height="300" /> -->
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **M,Khotibul Umam**, a recent Information System graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them. 
+I am **M. Khotibul Umam**, a recent Information System graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them.  
+
+🚀 **Check out my personal website:** [🌐 mamskie.me](https://mamskie.me) 🔥
+
+---
 <h2 align="center">
   ⚙️ Technologies & Tools <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50">
 </h2>
