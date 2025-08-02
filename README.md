@@ -10,7 +10,7 @@ I am **M. Khotibul Umam**, a recent Information System graduate who is always co
 
 ---
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31t5j64ir44w7z7pf2je2smyjkxu">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31t5j64ir44w7z7pf2je2smyjkxu&show_border=1&custom_title=MAMSKIE&limit=5" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31t5j64ir44w7z7pf2je2smyjkxu&show_border=1&custom_title=MAMSKIE&hide_top_artists=1&hide_top_tracks=1&hide_recents=1" alt="Data Card for Spotify">
 </a>
 <h2 align="center">
   ⚙️ Technologies & Tools <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50">
