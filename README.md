@@ -3,15 +3,15 @@
 I am **M. Khotibul Umam**, a recent Information System graduate who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them.  
 
 <p align="center">
-  <a href="https://mamskie.me" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐 Visit%20mamskie.me-black?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://mamskie.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐 Visit%20mamskie.dev-black?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31t5j64ir44w7z7pf2je2smyjkxu">
+<!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31t5j64ir44w7z7pf2je2smyjkxu">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31t5j64ir44w7z7pf2je2smyjkxu&show_border=1&custom_title=MAMSKIE&hide_top_artists=1&hide_top_tracks=1&hide_recents=1" alt="Data Card for Spotify">
-</a>
+</a> -->
 <h2 align="center">
   ⚙️ Technologies & Tools <img src="https://github.com/mam-06/mam-06/blob/main/images/laptop.gif" width="50">
 </h2>
